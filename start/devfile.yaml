@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: catalog-manager-api
     source:
-      location: 'https://github.com/zosconnect/sample-cics-api.git'
+      location: 'https://github.com/yvestolod/sample-cics-api.git'
       type: github
       branch: main
       sparseCheckoutDir: start
